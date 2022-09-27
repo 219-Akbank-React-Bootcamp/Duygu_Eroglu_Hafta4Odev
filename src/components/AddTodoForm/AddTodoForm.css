@@ -1,0 +1,15 @@
+h2 {
+  display: flex;
+  font-weight: 550;
+  background-image: linear-gradient(to left, #8d3185, #791c8e);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.AddTodoForm {
+    border: 3px solid rgb(78, 73, 73);
+    padding: 15px;
+    width: 400px;
+    position: absolute;
+}

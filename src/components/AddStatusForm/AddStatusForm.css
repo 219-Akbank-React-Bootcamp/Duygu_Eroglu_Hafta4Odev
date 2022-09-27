@@ -1,0 +1,18 @@
+h2 {
+    display: flex;
+    font-weight: 550;
+    background-image: linear-gradient(to left, #8d3185, #791c8e);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+    
+.AddStatusForm {
+    border: 3px solid rgb(78, 73, 73);
+    padding: 15px;
+    width: 300px;
+    position: absolute;  
+    top: 66px;
+    left: 900px;
+  }
+    
